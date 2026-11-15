@@ -1,2 +1,1 @@
-# Cisco-SiliconOne-ASIC-Verification-Portfolio
-UVM and RTL verification projects for networking ASICs.
+[Readme.md](https://github.com/user-attachments/files/34868503/Readme.md)
